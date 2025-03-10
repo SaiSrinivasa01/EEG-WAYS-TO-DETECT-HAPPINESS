@@ -31,8 +31,7 @@ This project explores various methods to detect happiness using EEG (Electroence
 ## 🚀 How to Run
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/EEG-Ways-To-Detect-Happiness.git
-   cd EEG-Ways-To-Detect-Happiness
+   git clone https://github.com/SaiSrinivasa01/EEG-WAYS-TO-DETECT-HAPPINESS
    ```
 2. **Install Dependencies:**
    ```sh
