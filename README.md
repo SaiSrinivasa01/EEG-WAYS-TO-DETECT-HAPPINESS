@@ -29,21 +29,12 @@ This project explores various methods to detect happiness using EEG (Electroence
 - Performance comparison of different feature extraction methods.
 - Insights from EEG channel analysis.
 
-## 🚀 How to Run
+##  How to Run
 1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/SaiSrinivasa01/EEG-WAYS-TO-DETECT-HAPPINESS
-   ```
-2. **Install Dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. **Run Preprocessing & Model Training:**
-   ```sh
-   python train_model.py
-   ```
+   
+   git clone <-https://github.com/SaiSrinivasa01/EEG-WAYS-TO-DETECT-HAPPINESS->
 
-## 📜 References
+##  References
 - EEG-based emotion detection research papers.
 - SEED-IV dataset documentation.
 
