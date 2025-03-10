@@ -1,5 +1,4 @@
  # EEG-WAYS-TO-DETECT-HAPPINESS
-# EEG Ways to Detect Happiness
 
 ##  Project Overview
 This project explores various methods to detect happiness using EEG (Electroencephalography) signals. By analyzing brainwave activity across different frequency bands, we aim to classify emotional states and identify EEG patterns associated with happiness.
