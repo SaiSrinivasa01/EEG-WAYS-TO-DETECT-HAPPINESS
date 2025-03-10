@@ -8,6 +8,7 @@ This project explores various methods to detect happiness using EEG (Electroence
 1. **Dataset:**
    - SEED-IV or other relevant EEG datasets.
    - EEG signals recorded across multiple channels.
+   - SJTU Emotion EEG Dataset for Four Emotions (SEED-IV) This is a subset of SEED (SJTU Emotion EEG Dataset: https://bcmi.sjtu.edu.cn/~seed/
 
 2. **Preprocessing:**
    - Noise removal using filters.
